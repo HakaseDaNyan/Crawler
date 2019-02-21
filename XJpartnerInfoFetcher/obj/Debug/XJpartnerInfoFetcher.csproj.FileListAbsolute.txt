@@ -1,0 +1,14 @@
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\bin\Debug\XJpartnerInfoFetcher.exe.config
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\bin\Debug\XJpartnerInfoFetcher.exe
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\bin\Debug\XJpartnerInfoFetcher.pdb
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\bin\Debug\AngleSharp.dll
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\bin\Debug\AngleSharp.xml
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\obj\Debug\XJpartnerInfoFetcher.csprojAssemblyReference.cache
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\obj\Debug\XJpartnerInfoFetcher.Form1.resources
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\obj\Debug\XJpartnerInfoFetcher.Properties.Resources.resources
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\obj\Debug\XJpartnerInfoFetcher.csproj.GenerateResource.cache
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\obj\Debug\XJpartnerInfoFetcher.csproj.CoreCompileInputs.cache
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\obj\Debug\XJpartnerInfoFetcher.csproj.CopyComplete
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\obj\Debug\XJpartnerInfoFetcher.exe
+D:\Project\XJpartnerInfoFetcher\XJpartnerInfoFetcher\obj\Debug\XJpartnerInfoFetcher.pdb
